@@ -1,4 +1,4 @@
-# Deep-Learning-Projects-COMP541
+# Deep-Learning-Projects-COMP541-Julia
 
 Deep Learning class project @ Koc University
 
